@@ -1,0 +1,5 @@
+This is a mirror of http://www.vim.org/scripts/script.php?script_id=559
+
+:BufClose without an argument will close the buffer in the current window, leaving you with a blank buffer.
+
+:BufClose with an argument looks for a buffer by that name or number in a window and closes it, leaving that window with a blank buffer.
